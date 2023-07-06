@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Fellow, Department of Civil and Environmental Engineering, University of Michigan, Ann Arbor, MI, USA  # <a href='#'>University of Michigan</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Fellow, Department of Civil and Environmental Engineering, University of Michigan  # <a href='#'>University of Michigan</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
