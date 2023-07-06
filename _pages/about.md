@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Fellow, Department of Civil and Environmental Engineering, University of Michigan, Ann Arbor, MI, USA  # <a href='#'>University of Michigan</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
