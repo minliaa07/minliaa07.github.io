@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Fellow, Department of Civil and Environmental Engineering, University of Michigan  # <a href='#'>University of Michigan</a>. Address. Contacts. Moto. Etc.
+subtitle: Assitant Professor, Department of Civil and Environmental Engineering, Rensselaer Polytechnic Institute (RPI)  # <a href='#'>University of Michigan</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>4020 Jonsson Engineering Center</p>
+    <p>110 8th St</p>
+    <p>Troy, NY 12180</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
