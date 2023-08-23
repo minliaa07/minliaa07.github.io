@@ -7,10 +7,15 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
+
+<h2 style="font-size: 24px;">Peer-Reviewed Journal Papers</h2>
+
 <div class="publications">
+  {% bibliography -f {{ site.scholar.bibliography }} --query @article %}
+</div>
 
-Peer-reviewed journal papers
+<h2 style="font-size: 24px;">Conference Papers</h2>
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
-
+<div class="publications">
+  {% bibliography -f {{ site.scholar.bibliography }} --query @inproceedings %}
 </div>
