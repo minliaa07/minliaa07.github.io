@@ -6,8 +6,6 @@ inline: false
 related_posts: false
 ---
 
-# I am seeking highly motivated individuals to fill two fully-funded Ph.D. positions for Spring or Fall 2024. All qualified candidates are encouraged to apply, especially candidates with an interdisciplinary background. As a Ph.D. student, you will contribute to research (and teaching), advising students, and disseminating your findings through publications. 
-
 I am actively seeking highly motivated PhD students to join me in conducting research on the following areas: (1) risk assessment under natural hazards, (2) resilience-based decision-making for critical infrastructures, and (3) robust analysis and design of wave/wind energy systems. Our research will involve leveraging advanced techniques, including machine learning, data analytics, and uncertainty quantification. The successful candidate will be fully funded, and the starting date can be in Spring 2024 or Fall 2024.
 
 Minimum Qualifications:
