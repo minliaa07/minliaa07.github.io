@@ -6,9 +6,9 @@ description: # Materials for courses you taught.
 nav: true
 nav_order: 5
 ---
-CIVL 6960 - Structural Reliability. Spring 2024
+CIVL 6960 - Structural Reliability, Spring 2024
 
-CIVL 6390 - Wind Engineering. Fall 2024
+CIVL 6390 - Wind Engineering, Fall 2024
 
 ENGR 1100 - Introduction to Engineering Analysis, Spring 2025
 
