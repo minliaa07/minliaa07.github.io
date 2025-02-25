@@ -7,9 +7,11 @@ nav: true
 nav_order: 5
 ---
 
+<div style="line-height: 2;">
 - CIVL 6960 - Structural Reliability (Spring 2024)
 - CIVL 6390 - Wind Engineering (Fall 2024)
 - ENGR 1100 - Introduction to Engineering Analysis (Spring 2025)
+</div>
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
