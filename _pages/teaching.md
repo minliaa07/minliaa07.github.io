@@ -16,7 +16,7 @@ nav_order: 5
 
   
   
-<h2 style="font-size: 18px;">U**ndergraduate Courses**</h2>
+<h2 style="font-size: 18px;">**Undergraduate Courses**</h2>
 
 - ENGR 1100 - Introduction to Engineering Analysis (Spring 2025)
 
