@@ -14,8 +14,3 @@ $max-content-width: {{ site.max_width }};
   "distill"
 ;
 
-
-.publication-item.custom-width {
-  width: 90%; /* Adjust this value to control the width */
-  box-sizing: border-box; /* Ensure padding and border are included in the width */
-}
