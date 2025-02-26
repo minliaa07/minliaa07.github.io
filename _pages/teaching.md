@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-<h2 style="font-size: 18px;">**Graduate Courses**</h2>
+<h2 style="font-size: 24px;">**Graduate Courses**</h2>
 
 - CIVL 6960 - Structural Reliability (Spring 2024)
   
@@ -16,7 +16,7 @@ nav_order: 5
 
   
   
-<h2 style="font-size: 18px;">**Undergraduate Courses**</h2>
+<h2 style="font-size: 24px;">**Undergraduate Courses**</h2>
 
 - ENGR 1100 - Introduction to Engineering Analysis (Spring 2025)
 
